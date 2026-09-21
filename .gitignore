@@ -1,4 +1,6 @@
+.rpkg-build/
 /.cargo
 /target
 /vendor
 /vendor.tar.xz
+
